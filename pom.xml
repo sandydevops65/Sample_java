@@ -12,7 +12,7 @@
    <snapshotRepository>
       <id>SAMPLE-SNAP</id>
       <url>http://localhost:8081/repository/SAMPLE-SNAP/</url>
-      <layout>default</default>
+      <layout>default</layout>
    </snapshotRepository>
 </distributionManagement>
 </project>
