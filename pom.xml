@@ -10,8 +10,9 @@
 	</properties>
 	<distributionManagement>
    <snapshotRepository>
-      <id>snapshots</id>
+      <id>SAMPLE-SNAP</id>
       <url>http://localhost:8081/repository/SAMPLE-SNAP/</url>
+      <layout>default</default>
    </snapshotRepository>
 </distributionManagement>
 </project>
