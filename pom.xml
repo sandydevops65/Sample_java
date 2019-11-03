@@ -10,7 +10,7 @@
 	</properties>
 	<distributionManagement>
    <snapshotRepository>
-      <id>nexus-snapshots</id>
+      <id>snapshots</id>
       <url>http://localhost:8081/repository/SAMPLE-SNAP/</url>
    </snapshotRepository>
 </distributionManagement>
