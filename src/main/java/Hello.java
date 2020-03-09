@@ -4,7 +4,7 @@ class HelloWorld
 {
     public void dispMessage()
     {
-        System.out.println("Hello World.");
+        System.out.println("Hello Sandeep.");
     }
      
     //Main method
